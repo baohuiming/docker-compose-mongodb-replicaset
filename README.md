@@ -2,7 +2,7 @@
 3 nodes mongodb replicaset via docker compose
 
 # Use
-1. add the following to /etc/hosts **It's very important for the client to connect to mongo1/2/3 perspectively.
+1. add the following to /etc/hosts **It's very important for the client to connect to mongo1/2/3 perspectively.**
 ```
 127.0.0.1       mongo1
 127.0.0.1       mongo2
